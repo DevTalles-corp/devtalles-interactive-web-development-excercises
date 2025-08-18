@@ -1,13 +1,13 @@
-# 🔧 DevTalles - Nivel Intermedio
-
 <div align="center">
+
+# 🔧 Ejercicios - Nivel Intermedio
 
 ![Intermedio Badge](https://img.shields.io/badge/Nivel-Intermedio-orange?style=for-the-badge&logo=javascript)
 
 **Desarrollo web avanzado con APIs, bases de datos y aplicaciones funcionales**
 
-[![Exercises](https://img.shields.io/badge/Proyectos-13%20Funcionales-orange.svg)]()
-[![Level](https://img.shields.io/badge/Dificultad-Intermedia-orange.svg)]()
+[![Exercises](https://img.shields.io/badge/Proyectos-11%20Funcionales-orange.svg?style=for-the-badge)]()
+[![Level](https://img.shields.io/badge/Dificultad-Intermedia-orange.svg?style=for-the-badge)]()
 
 </div>
 
@@ -17,7 +17,6 @@
 - [⚡ Tecnologías y conceptos](#-tecnologías-y-conceptos)
 - [📚 Índice de proyectos](#-índice-de-proyectos)
 - [💡 Consejos para el éxito](#-consejos-para-el-éxito)
-- [🚀 Siguiente nivel](#-siguiente-nivel)
 
 ## 🎯 Objetivos del Nivel
 

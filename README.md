@@ -24,7 +24,7 @@
 - [📚 Rutas de Aprendizaje](#-rutas-de-aprendizaje)
 - [💻 Tecnologías](#-tecnologías)
 - [📞 Soporte](#-soporte)
-- [🌐 Social](#-social)
+- [🌐 Social](#-redes-sociales)
 
 ## 🎯 Acerca de Este Repositorio
 
