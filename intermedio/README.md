@@ -6,8 +6,8 @@
 
 **Desarrollo web avanzado con APIs, bases de datos y aplicaciones funcionales**
 
-[![Exercises](https://img.shields.io/badge/Proyectos-11%20Funcionales-orange.svg?style=for-the-badge)]()
-[![Level](https://img.shields.io/badge/Dificultad-Intermedia-orange.svg?style=for-the-badge)]()
+[![Exercises](https://img.shields.io/badge/Proyectos-2%20Funcionales-orange.svg?style=for-the-badge)](./01-meal-finder-api/)
+![Level](https://img.shields.io/badge/Dificultad-Intermedia-orange.svg?style=for-the-badge)
 
 </div>
 
@@ -64,17 +64,8 @@ Herramientas y técnicas para la gestión y persistencia de datos del lado del c
 
 ## 📚 Índice de Proyectos
 
-1. [Meal Finder Api](./01-meal-finder-api/)
-2. [Calculator](./02-calculator/)
-3. [Type Ahead / Autocomplete](./03-type-ahead-autocomplete/)
-4. [Movie Seat Booking](./04-movie-seat-booking/)
-5. [Exchange Rate Calculator](./05-exchange-rate-calculator/)
-6. [JS Drum Kit](./06-js-drum-kit/)
-7. [Guess the Number](./07-guess-the-number-speech/)
-8. [Markdown Previewer](./08-markdown-previewer/)
-9. [Image Carousel / Slider](./09-image-carousel-slider/)
-10. [Weather App](./10-weather-app/)
-10. [Song Lyrics Searcher](./11-song-lyrics-searcher/)
+1. [Scroll Animation](./01-scroll-animation/)
+2. [Meal Finder Api](./02-meal-finder-api/)
 
 ---
 

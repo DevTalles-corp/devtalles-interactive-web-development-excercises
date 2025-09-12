@@ -5,9 +5,7 @@
 
 ![Principiante Badge](https://img.shields.io/badge/Nivel-Principiante-green?style=for-the-badge&logo=javascript)
 
-<!-- **Fundamentos de desarrollo web con JavaScript/TypeScript, HTML5 y CSS3** -->
-
-![Exercises](https://img.shields.io/badge/Ejercicios-15%20Prácticos-brightgreen.svg?style=for-the-badge)
+[![Exercises](https://img.shields.io/badge/Ejercicios-24%20Prácticos-brightgreen.svg?style=for-the-badge)](./01-expanding-cards/)
 ![Level](https://img.shields.io/badge/Dificultad-Básica-green.svg?style=for-the-badge)
 
 </div>
@@ -79,27 +77,51 @@ Hay una serie de recomendaciones para que puedas realizar los ejercicios de una 
 
 1. **Realiza los siguientes ejercicios en un solo proyecto, siguiendo la estructura de organización recomendada para el proyecto. Esto es con el fin de no crear un proyecto nuevo desde absoluto 0 y solo centrarte en realizar los ejercicios.**
 
-2. **Es recomendable usar una librería de estilos, como `TailwindCSS` para facilitar la implementación de estilos durante el desarrollo. Las soluciones estarán estilizadas con el mismo, pero tienes total libertad de estilizar las aplicaciones a tu gusto. ¡Expresa ese potencial en tus ejercicios!**  
+2. **Dentro de cada carpeta de ejercicios, encontrarás una serie de archivos con:**
 
-3. **Hay una carpeta denominada `solutions-react`, la cual es un proyecto de React siguiendo la organización recomendada para el proyecto que se muestra en la siguiente sección y que contendrá todos los archivos correspondientes para cada ejercicio.**   
+- Un README con las instrucciones para cada ejercicio.
+- El código base para que te centres en lo importante del ejercicio, el cual se llamará `pasos-iniciales`.
+- El código con su solución al ejercicio, el cual se llamará `solution-react`
+
+    ### 📁 Estructura dentro de cada carpeta de ejercicios
+    ```
+    0X-nombre-del-ejercicio/
+    ├── 0X-nombre-del-ejercicio.gif
+    ├── pasos-iniciales
+    ├── solution-react
+    └──README.md
+    ```
+
+3. **Descarga la estructura incial del proyecto, la cual tendrá la configuración inicial lista para empezar directamente a trabajar con los ejercicios.**
+
+    **Este tendrá un archivo comprimido en `.zip`, el cual solo debes descomprimir y agregar los archivos al proyecto.**  
+
+    ### ❗ Puedes descargarla accediendo al siguiente directorio: ❗
+    ---
+    ### 📚 [Estructura inicial](./00-estructura-inicial)
+    ---
+
+4. **Es recomendable usar una librería de estilos, como `TailwindCSS` para facilitar la implementación de estilos durante el desarrollo. Las soluciones estarán estilizadas con el mismo, pero tienes total libertad de estilizar las aplicaciones a tu gusto.**
+
+   **¡Expresa ese potencial en tus ejercicios!**
 
 ## 🗂️ Organización Recomendada del Proyecto
 
 Para optimizar tu flujo de trabajo, te recomendamos crear **UN SOLO PROYECTO** para todos los ejercicios de principiante. Para ello usaremos `Vite` como build tool: 
 
 
-### ⚡ Flujo de Trabajo Recomendado para Vite
+### ⚡ Flujo de Trabajo Recomendado
 
-1. **Configura tu proyecto base**
+1. **Instala las dependencias para tu proyecto base que descargaste anteriormente:**
 
     ```bash
-    npm create vite@latest
+    npm install
     ```
 2. **Trabaja en un ejercicio a la vez** modificando los archivos principales
 
     ### 📁 Estructura ejemplo sugerida con React.js
     ```
-    my-react-project/
+    devtalles-interactive-web-development-exercises/
     ├── public
     ├── src/
     │   ├── excercises/
@@ -143,26 +165,32 @@ Para optimizar tu flujo de trabajo, te recomendamos crear **UN SOLO PROYECTO** p
 - ✅ **Cambio rápido** entre ejercicios con imports especificados
 - ✅ **Utilización óptima** de herramientas modernas
 
-<!-- ACOMODAR EL INDICE -->
 ## 📚 Índice de Ejercicios
 
-1. [Expanding Cards](./01-expanding-cards)
-2. [Progress Steps](./02-progress-steps/)
-3. [Random Color Generator](./03-random-color-generator/)
-4. [FAQ Collapse](./04-faq-collapse/)
-5. [Digital Clock](./05-digital-clock/)
-6. [Character Counter](./06-character-counter/)
-7. [Scroll Animation](./07-scroll-animation/)
-8. [Hidden Search Bar](./08-hidden-search-bar)
-9. [Show/Hide Password](./09-show-hide-password/)
-10. [Sound Board](./10-sound-board/)
-11. [Tabs](./11-tabs/)
-12. [Gallery Filter](./12-gallery-filter/)
-13. [Create List Items](./13-create-list-items/)
-14. [Blurry Loading Effect](./14-blurry-loading-effect/)
-15. [Mobile Nav Menu](./15-mobile-nav-menu/)
-
----
+1. [Input Sumator](.01-input-sumator)
+2. [Fibonacci Counter](./02-fibonacci-counter)
+3. [Temperature Converter](./03-temperature-converter/)
+4. [Word Reverser](./04-word-reverser/)
+5. [Even or Odd Checker](./05-even-or-odd-checker/)
+6. [TailwindCSS Email Subscribe Card](./06-tailwindcss-email-subscribe-card/)
+7. [TailwindCSS Pricing Cards](./07-tailwindcss-pricing-cards/)
+8. [TailwindCSS Login Modal](./08-tailwindcss-login-modal/)
+9. [TailwindCSS Image Gallery](./09-tailwindcss-image-gallery/)
+10. [TailwindCSS Prodct Modal](./10-tailwindcss-product-modal/)
+11. [Expanding Cards](./11-expanding-cards/)
+12. [Progress Steps](./12-progress-steps/)
+13. [Random Color Generator](./13-random-color-generator/)
+14. [FAQ Collapse](./14-faq-collapse/)
+15. [Digital Clock](./15-digital-clock/)
+16. [Character Counter](./16-character-counter/)
+17. [Hidden Search Bar](./17-hidden-search-bar)
+18. [Show/Hide Password](./18-show-hide-password/)
+19. [Sound Board](./19-sound-board/)
+20. [Tabs](./20-tabs/)
+21. [Gallery Filter](./21-gallery-filter/)
+22. [Create List Items](./22-create-list-items/)
+23. [Blurry Loading Effect](./23-blurry-loading-effect/)
+24. [Mobile Nav Menu](./24-mobile-nav-menu/)
 
 ## 💡 Consejos para el Éxito
 

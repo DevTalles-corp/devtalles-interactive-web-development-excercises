@@ -108,7 +108,7 @@
 ## 📊 Progreso y Estadísticas
 
 ![Levels](https://img.shields.io/badge/Niveles-2%20Disponibles-blue?style=for-the-badge)  
-![Exercises Count](https://img.shields.io/badge/Ejercicios-20%20Total-brightgreen?style=for-the-badge)
+[![Exercises Count](https://img.shields.io/badge/Ejercicios-24%20Total-brightgreen?style=for-the-badge)](./principiante/01-input-sumator/)
 
 ## 📞 Soporte
 
@@ -121,7 +121,7 @@
 
 ### **Sitio Web**:  
 
-[![DevTalles Cursos](https://img.shields.io/badge/DevTalles%20Cursos-0076B8?style=for-the-badge)](https://cursos.devtalles.com)  
+[![DevTalles Cursos](https://img.shields.io/badge/DevTalles%20Cursos-0076B8?style=for-the-badge&logo=devbox)](https://cursos.devtalles.com)  
 
 ### **Canales de YouTube**:  
 
