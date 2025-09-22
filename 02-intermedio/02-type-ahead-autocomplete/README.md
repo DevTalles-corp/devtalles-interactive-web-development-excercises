@@ -60,6 +60,4 @@ Incluye optimizaciones clave como **debouncing** para evitar peticiones excesiva
 
 ## 🎬 Resultado Esperado
 
-*Aquí puedes colocar un video o GIF mostrando el funcionamiento del ejercicio.*
-
-![Video de demostración](02-type-ahead-autocomplete.gif)
+![Video de demostración](./02-type-ahead-autocomplete.gif)

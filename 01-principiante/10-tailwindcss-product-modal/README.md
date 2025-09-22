@@ -44,6 +44,4 @@ El principal desafío aquí es replicar el efecto "3D" del botón principal de "
 
 ## 🎬 Resultado Esperado
 
-El resultado final debe ser un componente de producto visualmente idéntico al del diseño de referencia, totalmente responsivo y con todas las micro-interacciones funcionando correctamente.
-
 ![Video de demostración](./10-tailwindcss-product-modal.gif)

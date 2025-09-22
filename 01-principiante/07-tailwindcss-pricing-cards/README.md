@@ -42,6 +42,4 @@ Partirás de una maqueta funcional que está estilizada con un archivo `.css` ex
 
 ## 🎬 Resultado Esperado
 
-El objetivo es que, después de la refactorización, **la interfaz de usuario sea visualmente idéntica a la versión inicial**. El único cambio es la forma en que se aplican los estilos: de una hoja de estilos externa a clases de utilidad de Tailwind directamente en el HTML.
-
 ![Video de demostración](./07-tailwindcss-pricing-cards.gif)
