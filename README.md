@@ -18,13 +18,14 @@
 
 ## 📋 Tabla de Contenidos
 
-- [🎯 Acerca de Este Repositorio](#-acerca-de-este-repositorio)
-- [🗂️ Estructura del Repositorio](#️-estructura-del-repositorio)
-- [🚀 Inicio Rápido](#-inicio-rápido)
-- [📚 Rutas de Aprendizaje](#-rutas-de-aprendizaje)
-- [💻 Tecnologías](#-tecnologías)
-- [📞 Soporte](#-soporte)
-- [🌐 Social](#-redes-sociales)
+- ### [🎯 Acerca de Este Repositorio](#-acerca-de-este-repositorio)
+- ### [✅ Requisitos: ¿Estás Listo para Empezar?](#-requisitos-estás-listo-para-empezar)
+- ### [🛠️ ¿Qué Herramientas Usaremos?](#️-qué-herramientas-usaremos)
+- ### [🚀 Empieza tu Aventura de Programación Aquí](#-empieza-tu-aventura-de-programación-aquí)
+- ### [🗺️ Mapa del Repositorio](#️-mapa-del-repositorio)
+- ### [📊 Contenido del Repositorio](#-contenido-del-repositorio)
+- ### [📞 Soporte](#-soporte)
+- ### [🌐 Redes Sociales](#-redes-sociales)
 
 ## 🎯 Acerca de Este Repositorio
 
@@ -38,77 +39,60 @@
 - **Tecnologías Modernas**: JavaScript/TypeScript, HTML5, CSS3 y APIs web
 - **Metodología DevTalles**: Enfoque práctico y orientado a resultados
 
-## 🗂️ Estructura del Repositorio
+## ✅ Requisitos: ¿Estás Listo para Empezar?
+
+Antes de sumergirte en los ejercicios, asegúrate de tener una base en estas áreas.
+
+| Tecnología / Concepto | Nivel de Conocimiento Requerido | Curso Recomendado |
+| :--- | :--- | :--- |
+| **Lógica de Programación** | Entender variables, condicionales, ciclos y funciones. | ➡️[`Programación para principiantes`](https://cursos.devtalles.com/courses/programacion-para-principiantes?coupon=SEPTIEMBRE-2025) |
+| **HTML y CSS** | Conocimiento básico para estructurar y dar estilos a una página web. | (Requisito fundamental) |
+| **JavaScript Moderno** | Entender `let`/`const`, *arrow functions* y manipulación del DOM. | ➡️[`JavaScript Moderno: Guía para dominar el lenguaje`](https://cursos.devtalles.com/courses/javascript-moderno?coupon=SEPTIEMBRE-2025) |
+| **React.js** | Nociones básicas de componentes y hooks como `useState`, `useEffect` y `useRef`. | [`Youtube - React: De cero a experto` (secciones iniciales)](https://youtube.com/playlist?list=PLCKuOXG0bPi0Hk61_HdklQk8dLw2Sv8hL&si=9Ix45c2OwsGPTSnu)|
+
+## 🛠️ ¿Qué Herramientas Usaremos?
+
+En estos ejercicios, trabajarás principalmente con las siguientes tecnologías modernas del desarrollo web:
+
+| Herramienta | ¿Para qué la usamos? |
+| :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF13?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ¡Son los cuatro pilares fundamentales sobre los que construiremos todo! |
+| ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) | La librería de JavaScript para construir las partes visuales e interactivas de nuestras aplicaciones. |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Una herramienta para aplicar estilos de forma rápida y moderna sin salir de nuestro HTML. |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Un motor superrápido que nos ayuda a crear y ejecutar nuestro proyecto de desarrollo. |
+
+
+## 🚀 Empieza tu Aventura de Programación Aquí
+
+### Este es tu punto de partida. Elige tu nivel y sumérgete en los ejercicios prácticos.
+
+| Nivel | Descripción | ¡Haz Clic Aquí para Empezar! |
+| :--- | :--- | :--- |
+| **🌱 Principiante** | Aprende a manipular el DOM, manejar eventos y construir componentes básicos. ¡Ideal si estás empezando! | **[➡️ Ir a los Ejercicios de Principiantes](./01-principiante/README.md)** |
+| **🔧 Intermedio** | Trabaja con APIs, gestiona datos más complejos y crea aplicaciones funcionales. | **[➡️ Ir a los Ejercicios Intermedios](./02-intermedio/README.md)** |
+
+## 🗺️ Mapa del Repositorio
+
+Para que te orientes, así es como están organizadas las carpetas principales en este repositorio:
 
 ```
 📦 DevTalles - Ejercicios Web Interactivos
-├── 📁 principiante/      # 🌱 Fundamentos de desarrollo web
-├── 📁 intermedio/        # 🔧 APIs, bases de datos y funcionalidades avanzadas
+├── 📁 01-principiante/      # 🌱 Fundamentos de desarrollo web
+├── 📁 02-intermedio/        # 🔧 APIs y funcionalidades avanzadas
 ├── 📁 recursos/         # 📚 Materiales de aprendizaje adicionales y referencias
-├── 📄 README.md          # 📖 Este archivo
-└── 📄 .gitignore         # 🔒 Archivos ignorados por Git
+└──📄 README.md          # 📖 Este archivo que estás leyendo
+ 
 ```
 
-### 📂 Descripción de Niveles
 
-| Nivel | Descripción |
-|-------|-------------|
-| [`Principiante/`](./principiante/) | DOM, eventos, formularios, CSS dinámico |
-| [`Intermedio/`](./intermedio/) | APIs REST, localStorage, aplicaciones funcionales |
+## 📊 Contenido del Repositorio
 
-## 🚀 Inicio Rápido
+### Para que tengas una idea clara del material disponible en cada nivel:
 
-### Para Estudiantes
-
-1. **Evalúa Tu Nivel**: Revisa las descripciones y elige tu punto de partida.
-2. **Navega al Nivel**: Cada carpeta contiene un README detallado con una serie de ejercicios.
-3. **Sigue la Secuencia**: Los ejercicios están ordenados por dificultad progresiva.
-4. **Practica Constantemente**: Cada ejercicio incluye el planteamiento del problema junto a una carpeta de solución para cada ejercicio individual.
-
-## 📚 Rutas de Aprendizaje
-
-### 🌱 **Ruta Principiante**
-- Manipulación del DOM y eventos
-- Formularios y validaciones básicas
-- CSS dinámico y efectos visuales
-- Local Storage y persistencia básica
-
-### 🔧 **Ruta Intermedia**
-- Consumo de APIs REST y manejo de datos
-- Aplicaciones CRUD completas
-- Integración con servicios externos
-- Patrones de diseño básicos
-
-## 💻 Tecnologías
-
-### Tecnologías Core
-- ![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript-F7DF13?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### Frameworks y Librerías
-- **UI (JavaScript)**:  
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-- **Estilos (CSS)**:  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-- **Componentes de UI**:  
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### APIs y Herramientas
-- **Web APIs**:  
-![Fetch API](https://img.shields.io/badge/Fetch%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Local Storage](https://img.shields.io/badge/Local%20Storage-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Build Tools**:  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-- **Desarrollo**:  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-## 📊 Progreso y Estadísticas
-
-![Levels](https://img.shields.io/badge/Niveles-2%20Disponibles-blue?style=for-the-badge)  
-[![Exercises Count](https://img.shields.io/badge/Ejercicios-24%20Total-brightgreen?style=for-the-badge)](./principiante/01-input-sumator/)
+| Nivel | Descripción | Cantidad de Ejercicios |
+| :--- | :--- | :--- |
+| **🌱 Principiante** | Ejercicios enfocados en los fundamentos del desarrollo web interactivo. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-24-brightgreen?style=for-the-badge) |
+| **🔧 Intermedio** | Ejercicios sobre APIs y funcionalidades avanzadas. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-2-orange?style=for-the-badge) |
 
 ## 📞 Soporte
 
