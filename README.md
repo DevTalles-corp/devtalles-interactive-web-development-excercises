@@ -45,10 +45,10 @@ Antes de sumergirte en los ejercicios, asegúrate de tener una base en estas ár
 
 | Tecnología / Concepto | Nivel de Conocimiento Requerido | Curso Recomendado |
 | :--- | :--- | :--- |
-| **Lógica de Programación** | Entender variables, condicionales, ciclos y funciones. | ➡️[`Programación para principiantes`](https://cursos.devtalles.com/courses/programacion-para-principiantes?coupon=SEPTIEMBRE-2025) |
+| **Lógica de Programación** | Entender variables, condicionales, ciclos y funciones. | ➡️[`Programación para principiantes`](https://cursos.devtalles.com/courses/programacion-para-principiantes?coupon=learn-01) |
 | **HTML y CSS** | Conocimiento básico para estructurar y dar estilos a una página web. | (Requisito fundamental) |
-| **JavaScript Moderno** | Entender `let`/`const`, *arrow functions* y manipulación del DOM. | ➡️[`JavaScript Moderno: Guía para dominar el lenguaje`](https://cursos.devtalles.com/courses/javascript-moderno?coupon=SEPTIEMBRE-2025) |
-| **React.js** | Nociones básicas de componentes y hooks como `useState`, `useEffect` y `useRef`. | [`Youtube - React: De cero a experto` (secciones iniciales)](https://youtube.com/playlist?list=PLCKuOXG0bPi0Hk61_HdklQk8dLw2Sv8hL&si=9Ix45c2OwsGPTSnu)|
+| **JavaScript Moderno** | Entender `let`/`const`, *arrow functions* y manipulación del DOM. | ➡️[`JavaScript Moderno: Guía para dominar el lenguaje`](https://cursos.devtalles.com/courses/javascript-moderno?coupon=learn-01) |
+| **React.js** | Nociones básicas de componentes y hooks como `useState`, `useEffect` y `useRef`. | ➡️[`Youtube - React: De cero a experto` (secciones iniciales)](https://youtube.com/playlist?list=PLCKuOXG0bPi0Hk61_HdklQk8dLw2Sv8hL&si=9Ix45c2OwsGPTSnu)|
 
 ## 🛠️ ¿Qué Herramientas Usaremos?
 
