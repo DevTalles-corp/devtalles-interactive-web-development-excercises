@@ -18,14 +18,14 @@
 
 ## 📋 Tabla de Contenidos
 
-- ### [🎯 Acerca de Este Repositorio](#-acerca-de-este-repositorio)
-- ### [✅ Requisitos: ¿Estás Listo para Empezar?](#-requisitos-estás-listo-para-empezar)
-- ### [🛠️ ¿Qué Herramientas Usaremos?](#️-qué-herramientas-usaremos)
-- ### [🚀 Empieza tu Aventura de Programación Aquí](#-empieza-tu-aventura-de-programación-aquí)
-- ### [🗺️ Mapa del Repositorio](#️-mapa-del-repositorio)
-- ### [📊 Contenido del Repositorio](#-contenido-del-repositorio)
-- ### [📞 Soporte](#-soporte)
-- ### [🌐 Redes Sociales](#-redes-sociales)
+- ### [🎯 Acerca de este repositorio](#-acerca-de-este-repositorio)
+- ### [✅ Requisitos: ¿Estás listo para empezar?](#-requisitos-estás-listo-para-empezar)
+- ### [🛠️ ¿Qué herramientas usaremos?](#️-qué-herramientas-usaremos)
+- ### [🚀 Empieza tu aventura de programación aquí](#-empieza-tu-aventura-de-programación-aquí)
+- ### [🗺️ Mapa del repositorio](#️-mapa-del-repositorio)
+- ### [📊 Contenido del repositorio](#-contenido-del-repositorio)
+- ### [👨🏻‍💻 Soporte](#-soporte)
+- ### [🌐 Redes sociales](#-redes-sociales)
 
 ## 🎯 Acerca de Este Repositorio
 
@@ -39,16 +39,16 @@
 - **Tecnologías Modernas**: JavaScript/TypeScript, HTML5, CSS3 y APIs web
 - **Metodología DevTalles**: Enfoque práctico y orientado a resultados
 
-## ✅ Requisitos: ¿Estás Listo para Empezar?
+## ✅ Requisitos: ¿Estás listo para empezar?
 
 Antes de sumergirte en los ejercicios, asegúrate de tener una base en estas áreas.
 
 | Tecnología / Concepto | Nivel de Conocimiento Requerido | Curso Recomendado |
 | :--- | :--- | :--- |
 | **Lógica de Programación** | Entender variables, condicionales, ciclos y funciones. | ➡️[`Programación para principiantes`](https://cursos.devtalles.com/courses/programacion-para-principiantes?coupon=learn-01) |
-| **HTML y CSS** | Conocimiento básico para estructurar y dar estilos a una página web. | (Requisito fundamental) |
+| **HTML y CSS** | Conocimiento básico para estructurar y dar estilos a una página web. | **(Requisito fundamental)** |
 | **JavaScript Moderno** | Entender `let`/`const`, *arrow functions* y manipulación del DOM. | ➡️[`JavaScript Moderno: Guía para dominar el lenguaje`](https://cursos.devtalles.com/courses/javascript-moderno?coupon=learn-01) |
-| **React.js** | Nociones básicas de componentes y hooks como `useState`, `useEffect` y `useRef`. | ➡️[`Youtube - React: De cero a experto` (secciones iniciales)](https://youtube.com/playlist?list=PLCKuOXG0bPi0Hk61_HdklQk8dLw2Sv8hL&si=9Ix45c2OwsGPTSnu)|
+| **React.js** | Nociones básicas de componentes y hooks como `useState`, `useEffect` y `useRef`. | ➡️[`React: De cero a experto`](https://cursos.devtalles.com/courses/react-de-cero?coupon=learn-01)|
 
 ## 🛠️ ¿Qué Herramientas Usaremos?
 
@@ -70,6 +70,7 @@ En estos ejercicios, trabajarás principalmente con las siguientes tecnologías 
 | :--- | :--- | :--- |
 | **🌱 Principiante** | Aprende a manipular el DOM, manejar eventos y construir componentes básicos. ¡Ideal si estás empezando! | **[➡️ Ir a los Ejercicios de Principiantes](./01-principiante/README.md)** |
 | **🔧 Intermedio** | Trabaja con APIs, gestiona datos más complejos y crea aplicaciones funcionales. | **[➡️ Ir a los Ejercicios Intermedios](./02-intermedio/README.md)** |
+| **🏆 Avanzado** | Construye features que se conectan con APIs, servicios de autenticación y backends. | **[➡️ Ir a los Ejercicios Avanzados](./03-avanzado/README.md)** |
 
 ## 🗺️ Mapa del Repositorio
 
@@ -79,6 +80,7 @@ Para que te orientes, así es como están organizadas las carpetas principales e
 📦 DevTalles - Ejercicios Web Interactivos
 ├── 📁 01-principiante/      # 🌱 Fundamentos de desarrollo web
 ├── 📁 02-intermedio/        # 🔧 APIs y funcionalidades avanzadas
+├── 📁 03-avanzado/          # 📦 Creación de features y servicios
 ├── 📁 recursos/         # 📚 Materiales de aprendizaje adicionales y referencias
 └──📄 README.md          # 📖 Este archivo que estás leyendo
  
@@ -93,8 +95,9 @@ Para que te orientes, así es como están organizadas las carpetas principales e
 | :--- | :--- | :--- |
 | **🌱 Principiante** | Ejercicios enfocados en los fundamentos del desarrollo web interactivo. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-24-brightgreen?style=for-the-badge) |
 | **🔧 Intermedio** | Ejercicios sobre APIs y funcionalidades avanzadas. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-2-orange?style=for-the-badge) |
+| **🏆 Avanzado** | Desarrollo de features completas que se integran con servicios externos y backends propios. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-1-red?style=for-the-badge) |
 
-## 📞 Soporte
+## 👨🏻‍💻 Soporte
 
 ### 💬 **¡Únete a nuestra comunidad en Discord!**:  
 

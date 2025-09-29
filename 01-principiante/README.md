@@ -11,16 +11,16 @@
 
 ## 📋 Tabla de Contenidos
 
-- [🎯 Objetivos del Nivel](#-objetivos-del-nivel)
+- [🎯 Objetivos del nivel](#-objetivos-del-nivel)
 - [⚙️ Tecnologías que aplicarás en este nivel](#️-tecnologías-que-aplicarás-en-este-nivel)
-- [🛠️ Configuración de tu Entorno](#️-configuración-de-tu-entorno)
-- [🚀 Guía de Inicio y Flujo de Trabajo](#-guía-de-inicio-y-flujo-de-trabajo)
-- [📚 Índice de Ejercicios](#-índice-de-ejercicios)
-- [💡 Consejos para el Éxito](#-consejos-para-el-éxito)
-- [🚀 Siguiente Nivel](#-siguiente-nivel)
+- [🛠️ Configuración de tu entorno](#️-configuración-de-tu-entorno)
+- [🚀 Guía de inicio y flujo de trabajo](#-guía-de-inicio-y-flujo-de-trabajo)
+- [📚 Índice de ejercicios](#-índice-de-ejercicios)
+- [💡 Consejos para el éxito](#-consejos-para-el-éxito)
+- [🚀 Siguiente nivel](#-siguiente-nivel)
 
 
-## 🎯 Objetivos del Nivel
+## 🎯 Objetivos del nivel
 
 En este nivel desarrollarás habilidades clave para la construcción de aplicaciones web básicas e interactivas.
 
@@ -45,7 +45,7 @@ Para resolver estos ejercicios, pondrás en práctica el siguiente conjunto de t
 | **TailwindCSS** | Para aplicar estilos de forma rápida y directa en el HTML sin escribir archivos CSS separados. |
 | **`clsx` y `tailwind-merge`** | Pequeños paquetes de ayuda para manejar las clases de CSS de forma condicional y sin conflictos. |
 
-## 🛠️ Configuración de tu Entorno
+## 🛠️ Configuración de tu entorno
 
 Antes de empezar, asegúrate de tener instaladas estas dos herramientas gratuitas en tu computadora. Son la base para todos los ejercicios.
 
@@ -54,16 +54,16 @@ Antes de empezar, asegúrate de tener instaladas estas dos herramientas gratuita
 | **Node.js (+ npm)** | Es el motor que ejecuta nuestro JavaScript. **npm** es su asistente para instalar las librerías del proyecto. | **[nodejs.org](https://nodejs.org/)** <br> *(Elige la versión **LTS**)* | Abre tu terminal y escribe:<br> `node -v` |
 | **Visual Studio Code** | Es el programa donde escribirás, editarás y guardarás todo tu código. | **[code.visualstudio.com](https://code.visualstudio.com/)** | Si el programa se abre, está listo. |
 
-## 🚀 Guía de Inicio y Flujo de Trabajo
+## 🚀 Guía de inicio y flujo de trabajo
 
 
-### 1. Crea tu Carpeta Principal: 
+### 1. Crea tu carpeta principal: 
 
 En un lugar fácil de recordar (como el Escritorio o Documentos), crea una **carpeta nueva y vacía**. Nómbrala como quieras, por ejemplo: `devtalles-ejercicios`.
 
 Cada ejercicio es independiente. Sigue estos pasos para empezar a programar en minutos:
 
-### 2. Elige y Descarga un Ejercicio
+### 2. Elige y descarga un ejercicio
 
 1.  **Navega al Ejercicio:** Utiliza el [Índice de Ejercicios](#-índice-de-ejercicios) que se encuentra más abajo para encontrar un ejercicio que te interese. Haz clic en su nombre para ir a la carpeta de ese ejercicio.
 
@@ -71,7 +71,7 @@ Cada ejercicio es independiente. Sigue estos pasos para empezar a programar en m
     - Haz clic sobre el nombre del archivo para ir a su página de detalles.
     - En la nueva pantalla, busca un botón con un ícono de descarga (una flecha apuntando hacia abajo) o la palabra Download, generalmente ubicado a la derecha. Presiónalo para guardarlo en tu computadora.
 
-### 3. Prepara e Inicia el Proyecto
+### 3. Prepara e inicia el proyecto
 
 Ya con el archivo `.zip` en tu computadora, haz lo siguiente:
 
@@ -91,7 +91,7 @@ Ya con el archivo `.zip` en tu computadora, haz lo siguiente:
 
 ¡Y listo! La terminal te mostrará una dirección local (normalmente `http://localhost:5173`). Abre ese enlace en tu navegador para ver la aplicación base y comenzar a programar.
 
-### ¿Necesitas ver la Solución?
+### ¿Necesitas ver la solución?
 
 Si en algún momento quieres revisar el código final, el proceso es muy similar:
 
@@ -126,9 +126,9 @@ Si en algún momento quieres revisar el código final, el proceso es muy similar
 23. [Blurry Loading Effect](./23-blurry-loading-effect/)
 24. [Mobile Nav Menu](./24-mobile-nav-menu/)
 
-## 💡 Consejos para el Éxito
+## 💡 Consejos para el éxito
 
-### 📝 Mejores Prácticas
+### 📝 Mejores prácticas
 
 - **Implementa validaciones** antes de realizar operaciones.
 - **Mejora la UX** con CSS y feedback visual.
@@ -137,16 +137,16 @@ Si en algún momento quieres revisar el código final, el proceso es muy similar
 - **Haz commits frecuentes** para guardar tu progreso.
 
 
-### 🚀 Estrategias para Aprender
+### 🚀 Estrategias para aprender
 - **Evita el Burnout**: Usa la técnica Pomodoro (25 min de trabajo, 5 de descanso).
 - **Toma Pausas Activas**: Levántate y estira las piernas cada hora.
 - **No te frustres**: Si te bloqueas, revisa la solución, entiéndela y luego intenta replicarla sin ver.
 
-## 🚀 Siguiente Nivel
+## 🚀 Siguiente nivel
 
 ### ¡Felicitaciones! Continúa fortaleciendo tus habilidades pasando al siguiente conjunto de prácticas:
 
-### **[🔧 Ejercicios Intermedios](../intermedio/README.md)**
+### **[🔧 Ejercicios Intermedios](../02-intermedio/README.md)**
 
 ---
 
@@ -154,6 +154,6 @@ Si en algún momento quieres revisar el código final, el proceso es muy similar
 
 ### **🌱 Nivel Principiante Completado - ¡Sigue Creciendo! 🌱**
 
-[🏠 Volver al Inicio](../) • [🔧 Nivel Intermedio](../intermedio/README.md)
+[🏠 Volver al Inicio](../) • [🔧 Nivel Intermedio](../02-intermedio/README.md)
 
 </div>
