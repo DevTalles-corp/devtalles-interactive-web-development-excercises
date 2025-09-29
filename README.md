@@ -27,11 +27,11 @@
 - ### [👨🏻‍💻 Soporte](#-soporte)
 - ### [🌐 Redes sociales](#-redes-sociales)
 
-## 🎯 Acerca de Este Repositorio
+## 🎯 Acerca de este repositorio
 
 ¡Bienvenido al **Hub de Ejercicios de Desarrollo Web de DevTalles**! Este repositorio está diseñado para proporcionar una experiencia de aprendizaje estructurada y práctica en desarrollo web moderno, enfocándose en JavaScript/TypeScript y tecnologías relacionadas en un entorno web real.
 
-### 🎓 Objetivos Educativos
+### 🎓 Objetivos educativos
 
 - **Desarrollo Web Práctico**: Aprende manipulación del DOM, eventos y APIs web
 - **Progresión Estructurada**: Camino claro desde conceptos básicos
@@ -50,7 +50,7 @@ Antes de sumergirte en los ejercicios, asegúrate de tener una base en estas ár
 | **JavaScript Moderno** | Entender `let`/`const`, *arrow functions* y manipulación del DOM. | ➡️[`JavaScript Moderno: Guía para dominar el lenguaje`](https://cursos.devtalles.com/courses/javascript-moderno?coupon=learn-01) |
 | **React.js** | Nociones básicas de componentes y hooks como `useState`, `useEffect` y `useRef`. | ➡️[`React: De cero a experto`](https://cursos.devtalles.com/courses/react-de-cero?coupon=learn-01)|
 
-## 🛠️ ¿Qué Herramientas Usaremos?
+## 🛠️ ¿Qué herramientas usaremos?
 
 En estos ejercicios, trabajarás principalmente con las siguientes tecnologías modernas del desarrollo web:
 
@@ -62,7 +62,7 @@ En estos ejercicios, trabajarás principalmente con las siguientes tecnologías 
 | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Un motor superrápido que nos ayuda a crear y ejecutar nuestro proyecto de desarrollo. |
 
 
-## 🚀 Empieza tu Aventura de Programación Aquí
+## 🚀 Empieza tu aventura de programación aquí
 
 ### Este es tu punto de partida. Elige tu nivel y sumérgete en los ejercicios prácticos.
 
@@ -72,7 +72,7 @@ En estos ejercicios, trabajarás principalmente con las siguientes tecnologías 
 | **🔧 Intermedio** | Trabaja con APIs, gestiona datos más complejos y crea aplicaciones funcionales. | **[➡️ Ir a los Ejercicios Intermedios](./02-intermedio/README.md)** |
 | **🏆 Avanzado** | Construye features que se conectan con APIs, servicios de autenticación y backends. | **[➡️ Ir a los Ejercicios Avanzados](./03-avanzado/README.md)** |
 
-## 🗺️ Mapa del Repositorio
+## 🗺️ Mapa del repositorio
 
 Para que te orientes, así es como están organizadas las carpetas principales en este repositorio:
 
@@ -86,8 +86,7 @@ Para que te orientes, así es como están organizadas las carpetas principales e
  
 ```
 
-
-## 📊 Contenido del Repositorio
+## 📊 Contenido del repositorio
 
 ### Para que tengas una idea clara del material disponible en cada nivel:
 
@@ -104,7 +103,7 @@ Para que te orientes, así es como están organizadas las carpetas principales e
 [![Discord](https://img.shields.io/badge/Discord%20Devtalles-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pBjEVYTC7t)
 
 
-## 🌐 Redes Sociales
+## 🌐 Redes sociales
 
 ### **Sitio Web**:  
 
