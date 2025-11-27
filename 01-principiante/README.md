@@ -9,6 +9,18 @@
 
 </div>
 
+<div align="center">
+  
+  <h1>🎥 ¿Cómo empezar con los ejercicios?</h1>
+  
+  <a href="https://www.youtube.com/watch?v=5hW9QMgxhXY" target="_blank">
+    <img src="https://img.youtube.com/vi/5hW9QMgxhXY/maxresdefault.jpg" alt="Ver video de introducción" width="600" />
+  </a>
+
+  ### 👆 Haz clic en la imagen para ver las instrucciones en video
+
+</div>
+
 ## 📋 Tabla de Contenidos
 
 - [🎯 Objetivos del nivel](#-objetivos-del-nivel)

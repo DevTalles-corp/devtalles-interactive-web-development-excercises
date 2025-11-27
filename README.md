@@ -16,6 +16,18 @@
 
 </div>
 
+<div align="center">
+  
+  <h1>🎥 ¿Cómo usar este repositorio?</h1>
+  
+  <a href="https://www.youtube.com/watch?v=tSueMIDuC50" target="_blank">
+    <img src="https://img.youtube.com/vi/tSueMIDuC50/maxresdefault.jpg" alt="Ver video de introducción" width="600" />
+  </a>
+
+  ### 👆 Haz clic en la imagen para ver las instrucciones en video
+
+</div>
+
 ## 📋 Tabla de Contenidos
 
 - ### [🎯 Acerca de este repositorio](#-acerca-de-este-repositorio)
@@ -66,7 +78,7 @@ En estos ejercicios, trabajarás principalmente con las siguientes tecnologías 
 
 ### Este es tu punto de partida. Elige tu nivel y sumérgete en los ejercicios prácticos.
 
-| Nivel | Descripción | ¡Haz Clic Aquí para Empezar! |
+| Nivel | Descripción | ¡Haz clic aquí para empezar! |
 | :--- | :--- | :--- |
 | **🌱 Principiante** | Aprende a manipular el DOM, manejar eventos y construir componentes básicos. ¡Ideal si estás empezando! | **[➡️ Ir a los Ejercicios de Principiantes](./01-principiante/README.md)** |
 | **🔧 Intermedio** | Trabaja con APIs, gestiona datos más complejos y crea aplicaciones funcionales. | **[➡️ Ir a los Ejercicios Intermedios](./02-intermedio/README.md)** |
