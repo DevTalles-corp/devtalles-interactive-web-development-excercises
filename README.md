@@ -108,11 +108,15 @@ Para que te orientes, así es como están organizadas las carpetas principales e
 | **🔧 Intermedio** | Ejercicios sobre APIs y funcionalidades avanzadas. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-2-orange?style=for-the-badge) |
 | **🏆 Avanzado** | Desarrollo de features completas que se integran con servicios externos y backends propios. | ![Ejercicios](https://img.shields.io/badge/Ejercicios-1-red?style=for-the-badge) |
 
-## 👨🏻‍💻 Soporte
+## 👨🏻‍💻 Soporte y Feedback
 
 ### 💬 **¡Únete a nuestra comunidad en Discord!**:  
 
 [![Discord](https://img.shields.io/badge/Discord%20Devtalles-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pBjEVYTC7t)
+
+[![Feedback](https://img.shields.io/badge/Danos%20tu%20Opinión-Google%20Forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSem8RIXwnA0OQx6jXl7vwd0k6nqcJdyE62NLns3SYYbCxTQew/viewform)
+
+> 💡 **Ayúdanos a mejorar:** Tu opinión es vital para crear nuevos ejercicios y mejorar la experiencia de aprendizaje. ¡Toma solo 2 minutos!
 
 
 ## 🌐 Redes sociales
